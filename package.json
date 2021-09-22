@@ -1,6 +1,6 @@
 {
   "name": "phaser3-vite-template",
-  "version": "0.1",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
